@@ -1,13 +1,11 @@
 <h1 >Hi 👋, I'm Ashray</h1>
 
+## 🔗 Connect with me
+
 <p align="left">
-  <h2>🔗 Connect with me</h2> 
   <a href="https://www.linkedin.com/in/ashray-sinha/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="linkedin" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/ashray.sinha.5" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="facebook" height="30" width="40" /></a>
   <a href="mailto:ashray.sinha28@gmail.com" target="blank"><img align="center"
       src="assets/gmail.png" alt="email" height="30" width="40" /></a>
     
@@ -116,22 +114,31 @@
 ## 🎧 Sotify Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312zbzqepzu776bb3gllhv3wripy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=312zbzqepzu776bb3gllhv3wripy&redirect=true)
 
+<p>
+  <a href="https://open.spotify.com/playlist/6iqxIiMrOctoKVqSn5kGaH?si=6ec6daef0cec4357">
+    <img src="https://img.shields.io/badge/-favs-brightgreen?style=for-the-badge&logo=spotify&logoHeight=80&labelColor=ffffff" />
+  </a>
+  <a href="https://open.spotify.com/playlist/3m2ul1n3CvZtKzKDxhIN0R?si=b8ff6361d2a04111">
+    <img src="https://img.shields.io/badge/Happy%20hours-brightgreen?style=for-the-badge&logo=spotify&logoHeight=80&labelColor=ffffff" />
+  </a>
+  <a href="https://open.spotify.com/playlist/1ACOYeW2S5AonFPZlQqx0h?si=d887948b12f64e66">
+    <img src="https://img.shields.io/badge/Folk/country-brightgreen?style=for-the-badge&logo=spotify&logoHeight=80&labelColor=ffffff" />
+  </a>
+</P>
 </br>
 
 ## 📈 Stats
-<p ><img width="49%"
+<p ><img width="45%" 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=asthemus&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide_border=true"
     alt="asthemus"
     bg_color=#808080/>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=asthemus&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide_border=true"
+    <img width="54%" src="https://github-readme-stats.vercel.app/api?username=asthemus&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide_border=true"
     alt="asthemus" />
 </p>
-<br>
 <p >    
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=asthemus&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&layout=compact&hide_border=true" alt="asthemus" />
-  <img width="49%" src="https://activity-graph.herokuapp.com/graph?username=asthemus&theme=react-dark&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"/>
+  <img width="46.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=asthemus&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&layout=compact&hide_border=true" alt="asthemus" />
+  <img width="52.3%" src="https://activity-graph.herokuapp.com/graph?username=asthemus&theme=react-dark&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&hide_border=true"/>
 </p>
-<br/>
 <hr>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks!+For+Visiting!;You're+awesome!&duration=1500&color=ffffff&font=arial)](https://git.io/typing-svg)
