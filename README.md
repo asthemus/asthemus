@@ -111,7 +111,7 @@
 </br>
 
 
-## 🎧 Sotify Playing
+## 🎧 Spotify Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312zbzqepzu776bb3gllhv3wripy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=312zbzqepzu776bb3gllhv3wripy&redirect=true)
 
 <p>
