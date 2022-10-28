@@ -31,6 +31,9 @@
 
 ## 🛠 Languages and Tools:
 <p align="left">
+    <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/go/go-original-wordmark.svg" alt="Golang" width="40"
+      height="40" /> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg"
@@ -66,9 +69,6 @@
       height="40" /> </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40"
-      height="40" /> </a>
-    <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/go/go-original-wordmark.svg" alt="Golang" width="40"
       height="40" /> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -119,7 +119,7 @@
     <img src="https://img.shields.io/badge/-favs-brightgreen?style=for-the-badge&logo=spotify&logoHeight=80&labelColor=ffffff" />
   </a>
   <a href="https://open.spotify.com/playlist/3m2ul1n3CvZtKzKDxhIN0R?si=b8ff6361d2a04111">
-    <img src="https://img.shields.io/badge/Happy%20hours-brightgreen?style=for-the-badge&logo=spotify&logoHeight=80&labelColor=ffffff" />
+    <img src="https://img.shields.io/badge/Euphoria-brightgreen?style=for-the-badge&logo=spotify&logoHeight=80&labelColor=ffffff" />
   </a>
   <a href="https://open.spotify.com/playlist/1ACOYeW2S5AonFPZlQqx0h?si=d887948b12f64e66">
     <img src="https://img.shields.io/badge/Folk/country-brightgreen?style=for-the-badge&logo=spotify&logoHeight=80&labelColor=ffffff" />
