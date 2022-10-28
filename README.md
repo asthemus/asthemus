@@ -14,7 +14,7 @@
 <br>
 
 
-<p><img height="300" align="right" src="assets/cat-vibe.gif" style="height: 100px; width: 100px;" alt="asthemus" /></p>
+<p><img height="300" align="right" src="assets/cat-vibe.gif" alt="asthemus" /></p>
 
 
 - 💼 Software developer @ [Razorpay](https://razorpay.com/)
