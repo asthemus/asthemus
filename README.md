@@ -17,89 +17,86 @@
 <p><img height="300" align="right" src="assets/cat-vibe.gif" alt="asthemus" /></p>
 
 
-- 💼 Software developer @ [Razorpay](https://razorpay.com/)
+- 💼 Engineer @ [Razorpay](https://razorpay.com/)
 - 📜 Electronics & Communication graduate from [IIIT Allahabad](https://www.iiita.ac.in/) (Batch of 2021)
 
 - 📫 Full stack and UI design
 
 - ❓ Ask me about Tech, design or life in general. Teach me how to backflip
-- ❤️ Books, sleep, pretty codes, sane humans
-- 💬 Curiosity never killed the cat.
+- ❤️ Books, sleep, clean code, sane humans
+- 💬 Curiosity killed the cat but gave a life worth living.
 
 
 <br>
 
 ## 🛠 Languages and Tools:
 <p align="left">
-    <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img
+    <a href="https://go.dev/" target="_blank" rel="noreferrer" style="text-decoration:none;"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/go/go-original-wordmark.svg" alt="Golang" width="40"
       height="40" /> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"
-    rel="noreferrer"> <img
+    rel="noreferrer" style="text-decoration:none;"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg"
       alt="typescript" width="40" height="40" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
+    rel="noreferrer" style="text-decoration:none;"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration:none;"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a>
-    </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+    </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration:none;"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
+    rel="noreferrer" style="text-decoration:none;"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration:none;"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" /> </a>
     <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+    rel="noreferrer" style="text-decoration:none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="40" height="40" /> </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="40" height="40" /> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+    <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration:none;"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
       height="40" /> </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer" style="text-decoration:none;"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg" alt="PHP" width="40"
       height="40" /> </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer" style="text-decoration:none;"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40"
       height="40" /> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration:none;"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-decoration:none;"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg"
       alt="mongoDB" width="40" height="40" /> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+    <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration:none;"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a>
-    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flask/flask-original-wordmark.svg" alt="flask"
-      width="40" height="40" /> </a>
     <a href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img
+    target="_blank" rel="noreferrer" style="text-decoration:none;"> <img
       src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
       height="40" /> </a> 
     <a href="https://www.photoshop.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
+    rel="noreferrer" style="text-decoration:none;"> <img
+      src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop"
       width="40" height="40" /> </a>
     <a href="https://www.figma.com/" target="_blank"
-    rel="noreferrer"> <img
+    rel="noreferrer" style="text-decoration:none;"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg" alt="figma"
       width="40" height="40" /> </a>
     <a href="https://www.docker.com/" target="_blank"
-    rel="noreferrer"> <img
+    rel="noreferrer" style="text-decoration:none;"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" alt="docker"
       width="40" height="40" /> </a>
     <a href="https://kubernetes.io/" target="_blank"
-    rel="noreferrer"> <img
+    rel="noreferrer" style="text-decoration:none;"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="k8s"
       width="40" height="40" /> </a>
 
@@ -112,7 +109,7 @@
 
 
 ## 🎧 Spotify Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312zbzqepzu776bb3gllhv3wripy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=312zbzqepzu776bb3gllhv3wripy&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312zbzqepzu776bb3gllhv3wripy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=35b104&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=312zbzqepzu776bb3gllhv3wripy&redirect=true)
 
 <p>
   <a href="https://open.spotify.com/playlist/6iqxIiMrOctoKVqSn5kGaH?si=6ec6daef0cec4357">
@@ -141,5 +138,5 @@
 </p>
 <hr>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks!+For+Visiting!;You're+awesome!&duration=1500&color=ffffff&font=arial)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks!+For+Visiting!;Now+Go+Away!!&duration=1500&color=ffffff&font=arial)](https://git.io/typing-svg)
 
